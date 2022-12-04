@@ -58,6 +58,7 @@ public class VacancyServiceTest {
         assertEquals(vacancy.getCity(), byId.get().getCity());
     }
 
+
     @Test
     public void getVacancyTest() {
         //given
